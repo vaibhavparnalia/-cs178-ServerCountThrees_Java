@@ -36,6 +36,7 @@
         <configuration>
           <source>1.7</source>
           <target>1.7</target>
+	  <outputDirectory>/usr/local/apache-tomcat-7.0.70/webapps</outputDirectory>
         </configuration>
       </plugin>
     </plugins>
